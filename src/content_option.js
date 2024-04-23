@@ -30,11 +30,7 @@ const worktimeline = [{
         where: "",
         date: "GLOBAL",
     },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "ALquds",
-    //     date: "2019",
-    // },
+  
 ];
 
 const skills = [{
@@ -57,10 +53,7 @@ const skills = [{
         name: "GIT, CI/CD",
         value: 90,
     },
-    // {
-    //     name: "KAFKA ",
-    //     value: 100,
-    // },
+
     {
         name: "TDD",
         value: 100,
@@ -75,14 +68,7 @@ const services = [{
         title: "Backend Developer",
         description: "As a seasoned Backend Developer with a focus on Java, Spring Boot, and Struts2, I specialize in architecting the foundational elements of digital platforms. My innovative approach enables me to craft server-side solutions that power high-performance applications. My proficiency in Java, Spring Boot, and Struts2 empowers me to develop scalable backend architectures, including the creation of robust RESTful APIs. I skillfully manage relational databases such as MySQL and PostgreSQL to ensure data integrity and efficiency. Additionally, I leverage NoSQL databases like MongoDB to accommodate diverse data structures. Collaboration is central to my working style as I collaborate closely with DevOps teams to facilitate continuous integration and deployment. I possess strong troubleshooting skills, enabling me to identify and resolve bottlenecks while implementing new features with an emphasis on performance and scalability. Dedicated to staying abreast of industry trends and best practices, I remain updated on security standards and the latest advancements in backend technologies."
     },
-    // {
-    //     title: "Mobile Apps",
-    //     description: "As a skilled Mobile Developer specializing in Flutter, I excel in creating cross-platform applications that seamlessly blend functionality. From design to implementation, I ensure a superior user experience, translating ideas into polished mobile solutions.\n\nDedicated to staying current with industry trends, innovative applications. "
-    // },
-    // {
-    //     title: "",
-    //     description: "",
-    // },
+
 ];
 
 const dataportfolio = [{
@@ -97,7 +83,7 @@ const dataportfolio = [{
     },
     {
         img: "https://res.cloudinary.com/drqql45ms/image/upload/v1713877046/SS_copy_n7xosy.jpg",
-        description:  "Swift Select: e-Hiring web app written with Java and React |Java,Spring,React|",
+        description:  "Swift Select: e-Hiring web app |Java,Spring,React|",
         link: "https://github.com/Victoryc01/Swift-Select.git",
 
     },
@@ -106,12 +92,6 @@ const dataportfolio = [{
         description: "FleetApp: A car management web app |Java,Struts2,HTML| ",
         link: "#",
     },
-    // {
-    //     img: "  https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/407372998_6182671415167779_3563559725909258730_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_ohc=CQBpJcM2fOgAX9Txx2d&_nc_ht=scontent-los2-1.xx&oh=00_AfAurJo3M7gW22aqhHUYrfYLe8lZ8ZGzyfiS9blKtgQZiQ&oe=656EEEC9      ",
-    //     description: "MobilFind core Java and Kotlin(mobile)",
-    //     link: "https://play.google.com/store/apps/details?id=com.decagon.mobifind",
-    // },
-
 
 ];
 
@@ -128,9 +108,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/victoryc01",
-    // facebook: "",
     linkedin: "https://linkedin.com/in/victory-chukwuemeka-324821127",
-    // twitter: "",
 };
 export {
     meta,
