@@ -235,4 +235,10 @@
     .menu_footer {
         font-size: 12px;
     }
+
+    .menu__button svg {
+        width: 1.5em;
+        height: 1.5em;
+        margin-right: 5px;
+    }
 }
