@@ -90,7 +90,12 @@ const dataportfolio = [{
     {
         img: "https://res.cloudinary.com/drqql45ms/image/upload/v1713875687/fleetapp.png",
         description: "FleetApp: A car management web app |Java,Struts2,HTML| ",
-        link: "#",
+        link: "https://github.com/Victoryc01/fleetapp.git",
+    },
+    {
+        img: "https://res.cloudinary.com/drqql45ms/image/upload/v1718891122/library_szacjd.png",
+        description: "Library Mangement System API: A system that allows librarians to manage books, patrons, and borrowing records|Java,Spring| ",
+        link: "https://github.com/Victoryc01/LibraryManagementSystem.git",
     },
 
 ];
